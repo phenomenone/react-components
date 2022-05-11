@@ -1,9 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import Heading from "./Heading";
 
 ReactDOM.render(
   <div>
-    <h1>My Favourite Foods</h1>
+    <Heading />
     <ul>
       <li>Bacon</li>
       <li>Jamon</li>
